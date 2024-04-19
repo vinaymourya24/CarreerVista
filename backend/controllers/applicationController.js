@@ -8,7 +8,7 @@ export const postApplication = catchAsyncErrors(async (req, res, next) => {
     const { role } = req.user;
     if (role === "Employer") {
         return next(
-            new ErrorHandler("Employer is not allowed to access this resource.", 400)
+            new ErrorHandler("Employer not allowed to access this resource.", 400)
         );
     }
     if (!req.files || Object.keys(req.files).length === 0) {
