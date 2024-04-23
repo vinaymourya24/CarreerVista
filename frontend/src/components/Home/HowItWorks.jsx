@@ -8,30 +8,27 @@ const HowItWorks = () => {
     <>
       <div className="howitworks">
         <div className="container">
-          <h3>How JobZee Works</h3>
+          <h3> How CareerVista Site Works</h3>
           <div className="banner">
             <div className="card">
               <FaUserPlus />
-              <p>Create Account</p>
+              <p>Create an Account</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Sign up and create your personal or company profile to get started.
               </p>
             </div>
             <div className="card">
               <MdFindInPage />
-              <p>Find a Job/Post a Job</p>
+              <p>Explore Job Opportunities or Post a Job</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Browse through a wide range of job listings or post your own job openings.
               </p>
             </div>
             <div className="card">
               <IoMdSend />
-              <p>Apply For Job/Recruit Suitable Candidates</p>
+              <p>Apply for Jobs or Recruit Suitable Candidates</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Apply to the jobs that match your skills and interests, or find the perfect candidate for your job postings.
               </p>
             </div>
           </div>

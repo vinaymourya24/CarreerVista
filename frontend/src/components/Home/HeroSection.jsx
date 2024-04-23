@@ -36,10 +36,9 @@ const HeroSection = () => {
                         <h1>Find a job that suits</h1>
                         <h1>your interests and skills</h1>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-                            voluptate repellat modi quidem aliquid eaque ducimus ipsa et,
-                            facere mollitia!
+                            Facilitate opportunities for students to engage in internships or co-op programs with industry partners. This allows them to gain practical experience in a professional setting and learn directly from experienced professionals.
                         </p>
+
                     </div>
                     <div className="image">
                         <img src="/heroS.jpg" alt="hero" />
